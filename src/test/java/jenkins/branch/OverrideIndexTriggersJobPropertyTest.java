@@ -31,7 +31,7 @@ import jenkins.branch.harness.MultiBranchImpl;
 import jenkins.plugins.git.GitSCMSource;
 import jenkins.scm.api.SCMSource;
 import jenkins.scm.impl.SingleSCMNavigator;
-import org.jenkinsci.plugins.workflow.steps.scm.GitSampleRepoRule;
+import jenkins.plugins.git.GitSampleRepoRule;
 import org.junit.Rule;
 import org.junit.Test;
 import org.jvnet.hudson.test.Issue;
